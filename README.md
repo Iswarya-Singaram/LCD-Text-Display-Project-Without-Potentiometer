@@ -70,10 +70,10 @@ int Contrast=75;
      void loop()
  { 
      lcd.setCursor(0, 0);
-     lcd.print("Only Innovative");
+     lcd.print("Hello");
    
     lcd.setCursor(0, 1);
-     lcd.print("Subscribe");
+     lcd.print("World");
  }
 ~~~
 Note: Adjust the contrast value incase the LCD's brightness too dim 
