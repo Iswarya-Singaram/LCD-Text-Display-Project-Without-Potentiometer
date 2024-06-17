@@ -33,6 +33,11 @@ To get started with this project, follow the instructions below:
 10. D7 to digital pin D2
 11. A (Anode, backlight) to 5V (with a resistor if necessary)
 13. K (Cathode, backlight) to GND
+
+ <p align="center">
+  <img src="https://github.com/Iswarya-Singaram/LCD-Text-Display-Project-Without-Potentiometer/assets/145309713/d0584e79-bb23-410d-9898-08415b1563dd" width="500" height="300">
+</p>
+
 <p align="center">
   <img src="https://github.com/Iswarya-Singaram/LCD-Connection-In-Arduino/assets/145309713/5a43ceb4-3d87-4d36-a359-a66f8d425461" width="500" height="300">
 </p>
